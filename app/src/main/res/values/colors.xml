@@ -1,0 +1,33 @@
+<resources>
+    <!-- Цвета для светлой темы -->
+    <color name="primary">#6200EE</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#3700B3</color>
+    <color name="onPrimaryContainer">#FFFFFF</color>
+
+    <color name="secondary">#03DAC6</color>
+    <color name="onSecondary">#000000</color>
+    <color name="secondaryContainer">#018786</color>
+    <color name="onSecondaryContainer">#000000</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="onBackground">#000000</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#000000</color>
+
+    <!-- Цвета для темной темы -->
+    <color name="primaryDark">#BB86FC</color>
+    <color name="onPrimaryDark">#000000</color>
+    <color name="primaryContainerDark">#3700B3</color>
+    <color name="onPrimaryContainerDark">#FFFFFF</color>
+
+    <color name="secondaryDark">#03DAC6</color>
+    <color name="onSecondaryDark">#000000</color>
+    <color name="secondaryContainerDark">#018786</color>
+    <color name="onSecondaryContainerDark">#000000</color>
+
+    <color name="backgroundDark">#121212</color>
+    <color name="onBackgroundDark">#FFFFFF</color>
+    <color name="surfaceDark">#1E1E1E</color>
+    <color name="onSurfaceDark">#FFFFFF</color>
+</resources>

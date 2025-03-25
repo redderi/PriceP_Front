@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pricep</string>
+    <string name="about_app_info_text">The application is designed to determine the cost of a product (item)
+        by its visual description or photograph.
+        \n\n
+        The application works in several modes:
+        \n\n
+        1. **Text search**
+        The user enters a description of the item in a special field
+        (for example, "white chair"). It is advisable to specify the most general classes of objects
+        (for example, table, chair, chest of drawers, plate, can).
+        After entering, the system will show a list of similar products found.
+        \n\n
+        2. **Search by photo**
+        The user can take a photo or upload a photo from the gallery.
+        Based on the image, the application will find and offer links to the most similar products.
+    </string>
+    <string name="link">Link</string>
+    <string name="describe_product">Describe the product</string>
+    <string name="mode">Mode</string>
+    <string name="camera">Camera</string>
+    <string name="dark_mode">Dark theme</string>
+    <string name="language">Language:</string>
+    <string name="app_version">Application version</string>
+    <string name="reset_settings">Reset settings</string>
+    <string name="settings">Settings</string>
+</resources>
